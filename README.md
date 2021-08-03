@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RMaffei
-- 👀 I’m interested in 3D Design and game development. 
-- 🌱 I’m currently learning UX Design and Maya.
-- 💞️ I’m looking to collaborate on concepts.
-- 📫 Reach me: @bawhsy on twitter/instagram.
+- 👋 Hi, I’m Rae Maffei.
+- 👀 I’m interested in design and game development. 
+- 🌱 I’m currently learning UX Design and front-end web development.
+- 💞️ I’m looking to learn from others.
+- 📫 Reach me: @RaeMaffei
 
 <!---
 RMaffei/RMaffei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
